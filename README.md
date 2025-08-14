@@ -1,2 +1,8 @@
-# impl_basics
-A simple Rust example demonstrating the use of structs and impl blocks to define methods and calculate values.
+# Rust Structs & Impl Example
+
+This repository demonstrates:
+
+- How to define **structs** in Rust
+- How to use **impl blocks** to add methods
+- How to work with **associated functions** and **methods**
+- How to modify and access struct data safely
