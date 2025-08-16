@@ -1,4 +1,4 @@
-# Rust Structs & Impl Example
+# Rust Structs, Trait & Impl Example
 
 This repository demonstrates:
 
@@ -6,3 +6,4 @@ This repository demonstrates:
 - How to use **impl blocks** to add methods
 - How to work with **associated functions** and **methods**
 - How to modify and access struct data safely
+- How a trait is used
