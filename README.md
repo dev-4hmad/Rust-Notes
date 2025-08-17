@@ -1,4 +1,4 @@
-# Rust Structs, Trait & Impl Example
+# Rust Structs, Trait, Enum & Impl Example
 
 This repository demonstrates:
 
