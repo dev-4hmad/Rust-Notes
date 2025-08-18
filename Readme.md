@@ -2,8 +2,8 @@
 
 This repo currently contains some key points and examples from:
 
-- [Variables](variables/)
-- [Data_types](data_types/)
-- [Functions](functions/)
+- [Variables](variables/src/bin/)
+- [Data_types](data_types/src/bin/)
+- [Functions](functions/src/bin/)
 
 [01_RUST](https://github.com/ahmad123m/01_RUST) is being updated
