@@ -1,4 +1,6 @@
-## Variables, Data types, Functions, Control Flow
+## Variables, Data types, Functions, Control Flow, Ownership and References
+
+My personal notes and study material.
 
 This repo currently contains some key points and examples from:
 
@@ -7,5 +9,8 @@ This repo currently contains some key points and examples from:
 - [Functions](functions/src/bin/)
 - [Control_Flow](control_flow/src/bin/)
 - [Exercise](exercise/src/bin/)
+- [Ownership](ownership/src/bin/) and [References](ownership/src/bin/references.rs)
 
 [01_RUST](https://github.com/ahmad123m/01_RUST) is being updated
+
+Thanks to the [Rust_Book](https://doc.rust-lang.org/book)
