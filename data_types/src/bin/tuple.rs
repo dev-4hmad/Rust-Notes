@@ -1,3 +1,4 @@
+#[allow(unused_variables)]
 fn main() {
     let x: (i32, f64, u8) = (500, 6.4, 1);
 
