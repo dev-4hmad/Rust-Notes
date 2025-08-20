@@ -12,6 +12,6 @@ This repo currently contains some key points and examples from:
 - [Ownership](ownership/src/bin/) and [References](ownership/src/bin/references.rs)
 - [Structs](structs/src/bin/)
 
-**[01_RUST]**(https://github.com/ahmad123m/01_RUST) is being updated
+[01_RUST](https://github.com/ahmad123m/01_RUST) is being updated
 
-Thanks to the **[Rust_Book]**(https://doc.rust-lang.org/book)
+Thanks to the [Rust_Book](https://doc.rust-lang.org/book)
