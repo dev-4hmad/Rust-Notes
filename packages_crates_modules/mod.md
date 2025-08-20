@@ -1,0 +1,4 @@
+- Binary and library crate
+- use, mod, pub, as, glob
+- Absolute path and relative path
+- **mod** is a file and **use** is something specific from the file
