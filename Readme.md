@@ -10,6 +10,7 @@ This repo currently contains some key points and examples from:
 - [Control_Flow](control_flow/src/bin/)
 - [Exercise](exercise/src/bin/)
 - [Ownership](ownership/src/bin/) and [References](ownership/src/bin/references.rs)
+- [Structs](structs/src/bin/)
 
 [01_RUST](https://github.com/ahmad123m/01_RUST) is being updated
 
