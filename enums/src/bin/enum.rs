@@ -1,3 +1,5 @@
+#[allow(unused_variables)]
+#[allow(dead_code)]
 fn main() {
     enum IpAddr {
         V4(String),

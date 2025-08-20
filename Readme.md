@@ -1,6 +1,4 @@
-## Variables, Data types, Functions, Control Flow, Ownership and References, Structs, Enums, Modules
-
-My personal notes and study material.
+## My personal notes and study material of Rust-lang
 
 This repo currently contains some key points and examples from:
 
@@ -13,6 +11,7 @@ This repo currently contains some key points and examples from:
 - [Structs](structs/src/bin/)
 - [Enums](enums/src/bin/)
 - [Modules](packages_crates_modules/src/)
+- [Collections](collections/vec_string_hashmap.md) and [Hashmap](collections/src/bin/hashmap.rs)
 
 [01_RUST](https://github.com/ahmad123m/01_RUST) is being updated
 
