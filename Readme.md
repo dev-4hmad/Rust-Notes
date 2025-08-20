@@ -1,4 +1,4 @@
-## Variables, Data types, Functions, Control Flow, Ownership and References, Structs
+## Variables, Data types, Functions, Control Flow, Ownership and References, Structs, Enums
 
 My personal notes and study material.
 
@@ -11,6 +11,7 @@ This repo currently contains some key points and examples from:
 - [Exercise](exercise/src/bin/)
 - [Ownership](ownership/src/bin/) and [References](ownership/src/bin/references.rs)
 - [Structs](structs/src/bin/)
+- [Enums](enums/src/bin/)
 
 [01_RUST](https://github.com/ahmad123m/01_RUST) is being updated
 
