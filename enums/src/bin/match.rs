@@ -1,3 +1,4 @@
+// Enum with match
 enum Message {
     Quit,
     Write(String),
