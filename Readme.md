@@ -12,7 +12,8 @@ This repo currently contains some key points and examples from:
 - [Enums](enums/src/bin/)
 - [Modules](packages_crates_modules/src/)
 - [Collections](collections/vec_string_hashmap.md) and [Hashmap](collections/src/bin/hashmap.rs)
+- [Error-Handling](error-handling/src/bin/)
 
 [Rust-Notes](https://github.com/ahmad123m/01_RUST) is being updated
 
-Thanks to the [Rust_Book](https://doc.rust-lang.org/book)
+Thanks to the [Rust-Book](https://doc.rust-lang.org/book)
