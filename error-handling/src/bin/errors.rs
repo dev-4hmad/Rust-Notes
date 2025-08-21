@@ -1,6 +1,6 @@
 use std::fs::File;
 use std::io::{self, Read};
-
+#[allow(dead_code)]
 fn read_username_from_file() -> Result<String, io::Error> {
     let username_file_result = File::open("/src/bin/hello.txt");
 
@@ -15,4 +15,4 @@ fn read_username_from_file() -> Result<String, io::Error> {
         Ok(_) => Ok(username),
         Err(e) => Err(e),
     }
-}
+} fn main(){}

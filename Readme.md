@@ -13,6 +13,7 @@ This repo currently contains some key points and examples from:
 - [Modules](packages_crates_modules/src/)
 - [Collections](collections/vec_string_hashmap.md) and [Hashmap](collections/src/bin/hashmap.rs)
 - [Error-Handling](error-handling/src/bin/)
+- [Generics-Traits-Lifetimes](generics-traits-lifetimes/src/bin/)
 
 [Rust-Notes](https://github.com/ahmad123m/01_RUST) is being updated
 
