@@ -15,6 +15,7 @@ This repo currently contains some key points and examples from:
 - [Error-Handling](error-handling/src/bin/)
 - [Generics-Traits-Lifetimes](generics-traits-lifetimes/src/bin/)
 - [Tests](tests/src/bin/test.rs)
+- [I/O-Project](minigrep/src/)
 
 [Rust-Notes](https://github.com/ahmad123m/01_RUST) is being updated
 
