@@ -18,6 +18,7 @@ This repo currently contains some key points and examples from:
 - [I/O-Project](minigrep/src/)
 - [Closures](iterators-closures/src/bin/closures.rs)
 - [Iterators](iterators-closures/src/bin/iterators.rs)
+- [Crates](crates/src/main.rs)
 
 [Rust-Notes](https://github.com/ahmad123m/01_RUST) is being updated
 
