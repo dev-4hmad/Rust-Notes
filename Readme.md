@@ -16,6 +16,8 @@ This repo currently contains some key points and examples from:
 - [Generics-Traits-Lifetimes](generics-traits-lifetimes/src/bin/)
 - [Tests](tests/src/bin/test.rs)
 - [I/O-Project](minigrep/src/)
+- [Closures](iterators-closures/src/bin/closures.rs)
+- [Iterators](iterators-closures/src/bin/iterators.rs)
 
 [Rust-Notes](https://github.com/ahmad123m/01_RUST) is being updated
 
