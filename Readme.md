@@ -19,6 +19,7 @@ This repo currently contains some key points and examples from:
 - [Closures](iterators-closures/src/bin/closures.rs)
 - [Iterators](iterators-closures/src/bin/iterators.rs)
 - [Crates](crates/src/main.rs)
+- [Smart-Pointers](smart-pointers/src/main.rs)
 
 [Rust-Notes](https://github.com/ahmad123m/01_RUST) is being updated
 
