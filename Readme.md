@@ -20,7 +20,8 @@ This repo currently contains some key points and examples from:
 - [Iterators](iterators-closures/src/bin/iterators.rs)
 - [Crates](crates/src/main.rs)
 - [Smart-Pointers](smart-pointers/src/main.rs)
+- [Concurrency](concurrency/src/bin/)
 
-[Rust-Notes](https://github.com/ahmad123m/01_RUST) is being updated
+[Rust-Notes](https://github.com/ahmad123m/Rust-Notes) is being updated
 
 Thanks to the [Rust-Book](https://doc.rust-lang.org/book)
