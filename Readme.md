@@ -25,4 +25,4 @@ This repo currently contains some key points and examples from:
 
 [Rust-Notes](https://github.com/ahmad123m/Rust-Notes) is being updated
 
-Thanks to the [Rust-Book](https://doc.rust-lang.org/book)
+Thanks to the [Rust Book](https://doc.rust-lang.org/book)
