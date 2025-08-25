@@ -1,4 +1,5 @@
 use std::cell::RefCell;
+#[allow(unused_imports)]
 use std::rc::{Rc, Weak};
 
 // 1. Drop Trait Example
@@ -16,11 +17,11 @@ fn main() {
     // 2. Box<T> Example: heap allocation
     let b = Box::new(10);
     println!("Boxed value: {}", b);
-
+    
     // 3. Rc<T> Example: multiple ownership
     let rc_a = Rc::new(RefCell::new(5));
     println!("Initial Rc count: {}", Rc::strong_count(&rc_a));
-
+    
     // Clone increases reference count
     let rc_b = Rc::clone(&rc_a);
     println!("Rc count after clone: {}", Rc::strong_count(&rc_a));
@@ -28,14 +29,16 @@ fn main() {
     // 4. RefCell<T> Example: interior mutability
     *rc_a.borrow_mut() += 10;
     println!("Value after mutation via RefCell: {}", rc_b.borrow());
-
+    
     // 5. Drop Trait Example
+    #[allow(unused_variables)]
     let dsp = CustomSmartPointer { data: String::from("Hello") };
     println!("CustomSmartPointer created");
 
     // 6. Reference Cycle Example
     #[derive(Debug)]
     struct Node {
+        #[allow(dead_code)]
         value: i32,
         next: RefCell<Option<Rc<Node>>>,
     }
