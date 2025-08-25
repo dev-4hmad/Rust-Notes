@@ -19,9 +19,9 @@ This repo currently contains some key points and examples from:
 - [Closures](iterators-closures/src/bin/closures.rs)
 - [Iterators](iterators-closures/src/bin/iterators.rs)
 - [Crates](crates/src/main.rs)
-- [Smart-Pointers](smart-pointers/src/main.rs)
+- [Smart Pointers](smart-pointers/src/main.rs)
 - [Concurrency](concurrency/src/bin/)
-- [Asynchronous-Programming](asynchronous/src/main.rs)
+- [Asynchronous Programming](asynchronous/src/main.rs)
 
 [Rust-Notes](https://github.com/ahmad123m/Rust-Notes) is being updated
 
