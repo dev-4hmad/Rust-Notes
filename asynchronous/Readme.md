@@ -1,0 +1,7 @@
+- Future: A value that might not be ready yet; async fn returns a Future.
+- async/await: Makes async code look synchronous; .await drives a future to completion.
+- Concurrency: Running multiple futures together without blocking.
+- Stream: An async iterator; yields values over time.
+- Executor: A runtime (like Tokio/async-std) that polls futures and runs tasks.
+- Tasks: Lightweight async units of work scheduled by an executor.
+- Threads: OS-level concurrency; async tasks are lighter and multiplexed on threads.
