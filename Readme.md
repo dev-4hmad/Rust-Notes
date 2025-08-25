@@ -1,4 +1,4 @@
-## My personal notes and study material of Rust-lang
+## My personal notes and study material of Rust programming language
 
 This repo currently contains some key points and examples from:
 
@@ -23,6 +23,7 @@ This repo currently contains some key points and examples from:
 - [Concurrency](Rust-lang-book/concurrency/src/bin/)
 - [Asynchronous Programming](Rust-lang-book/asynchronous/src/main.rs)
 - [Object Oriented Programming](Rust-lang-book/oop/src/main.rs)
+- [Patterns and Matching](Rust-lang-book/patterns-and-matching/src/main.rs)
 
 [Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated
 
