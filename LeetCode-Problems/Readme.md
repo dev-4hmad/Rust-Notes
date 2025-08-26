@@ -5,7 +5,8 @@
 
 #### Questions:
 
-- [Two Sum](LeetCode-Problems/two-sum/src/bin/)
+- [Two Sum](two-sum/src/bin/)
+- [Palindrome](palindrome/src/main.rs)
 
 ---
 

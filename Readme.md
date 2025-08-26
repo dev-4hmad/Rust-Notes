@@ -2,6 +2,8 @@
 
 This repo currently contains some key points and examples from:
 
+#### Rust lang book
+
 - [Variables](Rust-lang-book/variables/src/bin/)
 - [Data_types](Rust-lang-book/data_types/src/bin/)
 - [Functions](Rust-lang-book/functions/src/bin/)
@@ -32,7 +34,9 @@ This repo currently contains some key points and examples from:
 This repo also contains some solved problems from the LeetCode which I solve on regular basis. For Example:
 
 - [Two Sum](LeetCode-Problems/two-sum/src/bin/)
+- [Palindrome](LeetCode-Problems/palindrome/src/main.rs)
 
 [Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated
 
+---
 > Thanks to the [Rust Book](https://doc.rust-lang.org/book) and [LeetCode](https://leetcode.com/)
