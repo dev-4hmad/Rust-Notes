@@ -25,6 +25,14 @@ This repo currently contains some key points and examples from:
 - [Object Oriented Programming](Rust-lang-book/oop/src/main.rs)
 - [Patterns and Matching](Rust-lang-book/patterns-and-matching/src/main.rs)
 
+---
+
+## LeetCode problems
+
+This repo also contains some solved problems from the LeetCode which I solve on regular basis. For Example:
+
+- [Two Sum](LeetCode-Problems/two-sum/src/bin/)
+
 [Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated
 
-Thanks to the [Rust Book](https://doc.rust-lang.org/book)
+> Thanks to the [Rust Book](https://doc.rust-lang.org/book) and [LeetCode](https://leetcode.com/)
