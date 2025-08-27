@@ -35,8 +35,9 @@ This repo also contains some solved problems from the LeetCode which I solve on 
 
 - [Two Sum](LeetCode-Problems/two-sum/src/bin/)
 - [Palindrome](LeetCode-Problems/palindrome/src/main.rs)
-
-[Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated
+- [Roman to Integer](LeetCode-Problems/roman-to-integer/src/main.rs)
 
 ---
+***[Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated***
+
 > Thanks to the [Rust Book](https://doc.rust-lang.org/book) and [LeetCode](https://leetcode.com/)

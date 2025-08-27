@@ -7,6 +7,7 @@
 
 - [Two Sum](two-sum/src/bin/)
 - [Palindrome](palindrome/src/main.rs)
+- [Roman to Integer](roman-to-integer/src/main.rs)
 
 ---
 
