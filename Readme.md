@@ -1,4 +1,8 @@
-## My personal notes and study material of Rust programming language
+<p align="center">
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="120"/>
+  <h2 align="center">Rust-Notes 🦀</h2>
+  <p align="center">My personal notes and study material of Rust programming language</p>
+</p>
 
 This repo currently contains some key points and examples from:
 
@@ -38,6 +42,21 @@ This repo also contains some solved problems from the LeetCode which I solve on 
 - [Roman to Integer](LeetCode-Problems/roman-to-integer/src/main.rs)
 
 ---
+
+## Codewars problems
+
+Moreover I've also included some of my practice questions from Codewars. One of my favorite coding practice platform.
+
+- [Square Every Digit](src/bin/example-1.rs)
+
+---
+
 ***[Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated***
 
-> Thanks to the [Rust Book](https://doc.rust-lang.org/book) and [LeetCode](https://leetcode.com/)
+> Thanks to the [Rust Book](https://doc.rust-lang.org/book), [LeetCode](https://leetcode.com/) and [Codewars](https://www.codewars.com/dashboard)
+
+---
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/dev-4hmad">Muhammad Ahmad</a>  
+</p>
+
