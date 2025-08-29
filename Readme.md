@@ -54,7 +54,7 @@ Moreover I've also included some of my practice questions from Codewars. One of 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7150C&center=true&vCenter=true&repeat=false&width=435&lines=Rust-Notes+is+being+updated)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7D7&center=true&random=true&width=435&lines=Rust-Notes+is+being+updated)](https://git.io/typing-svg)
 
 > Thanks to the [Rust Book](https://doc.rust-lang.org/book), [LeetCode](https://leetcode.com/) and [Codewars](https://www.codewars.com/dashboard)
 
