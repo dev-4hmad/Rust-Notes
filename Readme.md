@@ -51,6 +51,7 @@ Moreover I've also included some of my practice questions from Codewars. One of 
 - [Vowel count](Codewars/src/bin/example-2.rs)
 - [Ones and Zeros](Codewars/src/bin/example-3.rs)
 - [Replace With Alphabet Position](Codewars/src/bin/example-4.rs)
+- [Finding Average](Codewars/src/bin/example-5.rs)
 
 ---
 

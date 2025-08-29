@@ -9,3 +9,4 @@ For example:
 - [Vowel Count](src/bin/example-2.rs)
 - [Ones and Zeros](src/bin/example-3.rs)
 - [Replace With Alphabet Position](src/bin/example-4.rs)
+- [Finding Average](src/bin/example-5.rs)
