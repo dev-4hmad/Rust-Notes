@@ -48,6 +48,7 @@ This repo also contains some solved problems from the LeetCode which I solve on 
 Moreover I've also included some of my practice questions from Codewars. One of my favorite coding practice platform.
 
 - [Square Every Digit](Codewars/src/bin/example-1.rs)
+- [Vowel count](Codewars/src/bin/example-2.rs)
 
 ---
 

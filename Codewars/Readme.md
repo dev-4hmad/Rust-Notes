@@ -6,3 +6,4 @@
 For example:
 
 - [Square Every Digit](src/bin/example-1.rs)
+- [Vowel Count](src/bin/example-2.rs)
