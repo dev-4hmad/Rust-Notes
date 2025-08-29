@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="120"/>
   <h2 align="center">Rust-Notes 🦀</h2>
-  <p align="center">My personal notes and study material of Rust programming language</p>
+  <h4 align="center">My personal notes and study material of Rust programming language</h4>
 </p>
 
 This repo currently contains some key points and examples from:
@@ -49,6 +49,7 @@ Moreover I've also included some of my practice questions from Codewars. One of 
 
 - [Square Every Digit](Codewars/src/bin/example-1.rs)
 - [Vowel count](Codewars/src/bin/example-2.rs)
+- [Ones and Zeros](Codewars/src/bin/example-3.rs)
 
 ---
 
