@@ -13,3 +13,7 @@ For example:
 - [Converting time](src/bin/example-6.rs)
 - [Fun Strings](src/bin/example-7.rs)
 - [BMI calculator](src/bin/example-8.rs)
+- [Are You Playing Banjo?](src/bin/example-9.rs)
+
+
+Thanks to [Codewars](https://www.codewars.com/dashboard)

@@ -33,28 +33,14 @@ This repo currently contains some key points and examples from:
 
 ---
 
-## LeetCode problems
+## Coding Problems
 
-This repo also contains some solved problems from the LeetCode which I solve on regular basis. For Example:
+I'm solving different coding problems related to Rust on daily basis which I also upload to this repo.
+Most of the problems which I solve are from [Codewars](https://www.codewars.com/dashboard) and [LeetCode](https://leetcode.com/).
 
-- [Two Sum](LeetCode-Problems/two-sum/src/bin/)
-- [Palindrome](LeetCode-Problems/palindrome/src/main.rs)
-- [Roman to Integer](LeetCode-Problems/roman-to-integer/src/main.rs)
-
----
-
-## Codewars problems
-
-Moreover I've also included some of my practice questions from Codewars. One of my favorite coding practice platform.
-
-- [Square Every Digit](Codewars/src/bin/example-1.rs)
-- [Vowel count](Codewars/src/bin/example-2.rs)
-- [Ones and Zeros](Codewars/src/bin/example-3.rs)
-- [Replace With Alphabet Position](Codewars/src/bin/example-4.rs)
-- [Finding Average](Codewars/src/bin/example-5.rs)
-- [Converting time](Codewars/src/bin/example-6.rs)
-- [Fun Strings](Codewars/src/bin/example-7.rs)
-- [BMI calculator](Codewars/src/bin/example-8.rs)
+- You can check them here:
+  - [Codewars](/Codewars/src/bin/)
+  - [LeetCode](/LeetCode-Problems/)
 
 ---
 
