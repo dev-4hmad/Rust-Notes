@@ -38,9 +38,13 @@ This repo currently contains some key points and examples from:
 I'm solving different coding problems related to Rust on daily basis which I also upload to this repo.
 Most of the problems which I solve are from [Codewars](https://www.codewars.com/dashboard) and [LeetCode](https://leetcode.com/).
 
-- You can check them here:
+- You can check them here (only Github):
   - [Codewars](/Codewars/src/bin/)
   - [LeetCode](/LeetCode-Problems/)
+
+These are just few problems which I've uploaded on Github. See more on my Codewars and LeetCode accounts:
+ - https://www.codewars.com/users/dev-4hmad
+ - https://leetcode.com/u/dev-4hmad/
 
 ---
 
