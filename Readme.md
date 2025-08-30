@@ -52,6 +52,7 @@ Moreover I've also included some of my practice questions from Codewars. One of 
 - [Ones and Zeros](Codewars/src/bin/example-3.rs)
 - [Replace With Alphabet Position](Codewars/src/bin/example-4.rs)
 - [Finding Average](Codewars/src/bin/example-5.rs)
+- [Converting time](Codewars/src/bin/example-6.rs)
 
 ---
 
