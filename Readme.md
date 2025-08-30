@@ -53,6 +53,8 @@ Moreover I've also included some of my practice questions from Codewars. One of 
 - [Replace With Alphabet Position](Codewars/src/bin/example-4.rs)
 - [Finding Average](Codewars/src/bin/example-5.rs)
 - [Converting time](Codewars/src/bin/example-6.rs)
+- [Fun Strings](Codewars/src/bin/example-7.rs)
+- [BMI calculator](Codewars/src/bin/example-8.rs)
 
 ---
 
