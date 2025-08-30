@@ -15,6 +15,7 @@ For example:
 - [BMI calculator](src/bin/example-8.rs)
 - [Are You Playing Banjo?](src/bin/example-9.rs)
 - [Sum of odd numbers](src/bin/example-10.rs)
+- [Return Negative](src/bin/example-11.rs)
 
 
 Thanks to [Codewars](https://www.codewars.com/dashboard)
