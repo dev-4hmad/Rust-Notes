@@ -24,6 +24,7 @@ This repo currently contains some key points and examples from:
 - [Asynchronous Programming](asynchronous/src/main.rs)
 - [Object Oriented Programming](oop/src/main.rs)
 - [Patterns and Matching](patterns-and-matching/src/main.rs)
+- [Advanced Features](advanced-features/src/bin/)
 
 [Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated
 

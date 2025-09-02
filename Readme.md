@@ -30,6 +30,7 @@ This repo currently contains some key points and examples from:
 - [Asynchronous Programming](Rust-lang-book/asynchronous/src/main.rs)
 - [Object Oriented Programming](Rust-lang-book/oop/src/main.rs)
 - [Patterns and Matching](Rust-lang-book/patterns-and-matching/src/main.rs)
+- [Advanced Features](Rust-lang-book/advanced-features/src/bin/)
 
 ---
 
