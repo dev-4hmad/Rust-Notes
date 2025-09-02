@@ -1,12 +1,12 @@
 //! Unsafe Rust: raw pointers, unsafe functions, static mut, and unsafe traits.
 //! Keep unsafe blocks small and wrapped in safe abstractions when possible.
 
-use std::ptr;
-
 static mut COUNTER: u32 = 0;
 
 unsafe fn inc_counter() {
-    COUNTER += 1;
+    unsafe {
+        COUNTER += 1;
+    }
 }
 
 unsafe trait Dangerous {}
@@ -36,12 +36,12 @@ fn main() {
     // 2) Calling an unsafe function and accessing static mut.
     unsafe {
         inc_counter();
-        println!("COUNTER = {}", COUNTER);
+        println!("COUNTER = {}", { COUNTER });
     }
 
     // 3) Interacting with FFI (decl only). Don't call without linking.
-    extern "C" { fn abs(input: i32) -> i32; }
-    let _abs_decl_only = unsafe { ptr::addr_of!(abs) }; // avoid link errors by not calling
+    unsafe extern "C" { fn abs(input: i32) -> i32; }
+    let _abs_decl_only = abs as *const (); // avoid link errors by not calling
 
     // 4) Safe abstraction over unsafe code.
     let mut data = [1, 2, 3];
