@@ -31,6 +31,7 @@ This repo currently contains some key points and examples from:
 - [Object Oriented Programming](Rust-lang-book/oop/src/main.rs)
 - [Patterns and Matching](Rust-lang-book/patterns-and-matching/src/main.rs)
 - [Advanced Features](Rust-lang-book/advanced-features/src/bin/)
+- [Final Project](Rust-lang-book/webserver/)
 
 ---
 

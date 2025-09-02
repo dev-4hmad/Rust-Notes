@@ -25,6 +25,7 @@ This repo currently contains some key points and examples from:
 - [Object Oriented Programming](oop/src/main.rs)
 - [Patterns and Matching](patterns-and-matching/src/main.rs)
 - [Advanced Features](advanced-features/src/bin/)
+- [Final Project](webserver/)
 
 [Rust-Notes](https://github.com/dev-4hmad/Rust-Notes) is being updated
 
