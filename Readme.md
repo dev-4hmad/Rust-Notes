@@ -4,38 +4,11 @@
   <h4 align="center">My personal notes and study material of Rust programming language</h4>
 </p>
 
-This repo currently contains some key points and examples from:
+This repo contains all of my journey through learning Rust programming language. <br>
 
-#### Rust lang book
+ - **Please check the [README](Rust-lang-book/Readme.md) file of the [Rust-lang-book](Rust-lang-book/) folder.**
 
-- [Variables](Rust-lang-book/variables/src/bin/)
-- [Data_types](Rust-lang-book/data_types/src/bin/)
-- [Functions](Rust-lang-book/functions/src/bin/)
-- [Control_Flow](Rust-lang-book/control_flow/src/bin/)
-- [Exercise](Rust-lang-book/exercise/src/bin/)
-- [Ownership](Rust-lang-book/ownership/src/bin/) and [References](Rust-lang-book/ownership/src/bin/references.rs)
-- [Structs](Rust-lang-book/structs/src/bin/)
-- [Enums](Rust-lang-book/enums/src/bin/)
-- [Modules](Rust-lang-book/packages_crates_modules/src/)
-- [Collections](Rust-lang-book/collections/vec_string_hashmap.md) and [Hashmap](Rust-lang-book/collections/src/bin/hashmap.rs)
-- [Error-Handling](Rust-lang-book/error-handling/src/bin/)
-- [Generics-Traits-Lifetimes](Rust-lang-book/generics-traits-lifetimes/src/bin/)
-- [Tests](Rust-lang-book/tests/src/bin/test.rs)
-- [I/O-Project](Rust-lang-book/minigrep/src/)
-- [Closures](Rust-lang-book/iterators-closures/src/bin/closures.rs)
-- [Iterators](Rust-lang-book/iterators-closures/src/bin/iterators.rs)
-- [Crates](Rust-lang-book/crates/src/main.rs)
-- [Smart Pointers](Rust-lang-book/smart-pointers/src/main.rs)
-- [Concurrency](Rust-lang-book/concurrency/src/bin/)
-- [Asynchronous Programming](Rust-lang-book/asynchronous/src/main.rs)
-- [Object Oriented Programming](Rust-lang-book/oop/src/main.rs)
-- [Patterns and Matching](Rust-lang-book/patterns-and-matching/src/main.rs)
-- [Advanced Features](Rust-lang-book/advanced-features/src/bin/)
-- [Final Project](Rust-lang-book/webserver/)
-
----
-
-## Coding Problems
+### Coding Problems
 
 I'm solving different coding problems related to Rust on daily basis which I also upload to this repo.
 Most of the problems which I solve are from [Codewars](https://www.codewars.com/dashboard) and [LeetCode](https://leetcode.com/).
